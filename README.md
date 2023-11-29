@@ -32,4 +32,4 @@ Essentially, the company wants to know —
 - statsmodels - version 0.14.0
 
 ## Connect with me on LinkedIn:-
-- [Aryan Baruah](https://in.linkedin.com/in/aryan-baruah-86671b113)
+- [Manu Sijaria](https://www.linkedin.com/in/manu-sijaria/)
